@@ -1,5 +1,5 @@
 {
-  "name": "bwang22/node-altcoin",
+  "name": "bwang22-node-altcoin",
   "version": "0.1.2",
   "description": "AltCoin RPC Node Client",
   "main": "./altcoin.js",
